@@ -1,0 +1,20 @@
+{
+  "name": "punchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node punchbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite-pool": "^0.1.2",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.0.9",
+    "enmap-level": "^2.1.0",
+    "moment": "^2.22.2",
+    "shortid": "^2.2.13"
+  }
+}
